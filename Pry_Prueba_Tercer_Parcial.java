@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Antoni
+ * @author Andres
  */
 public class Pry_Prueba_Tercer_Parcial {
 
